@@ -58,7 +58,7 @@ which can be installed by running `xcode-select --install`.
 
 #### Linux
 
-- npm 3.10 is required (install with `npm install -global npm@3.10 for example`). We cannot guarantee proper installation with other npm versions.
+- npm 3.10 is required (install with `npm install -global npm@3.10` for example). We cannot guarantee proper installation with other npm versions.
 - `libudev-dev` for libusb (install with `sudo apt install libudev-dev` for example)
 
 ### Cloning the project
